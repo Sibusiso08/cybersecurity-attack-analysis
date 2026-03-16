@@ -194,4 +194,4 @@ jupyter notebook cyber_security_project_full_python.ipynb
 **Sibusiso D. Mbuyane**
 Data Analyst | Python · SQL · Power BI · Tableau
 
-🔗 [GitHub](https://github.com/Sibusiso08) · [LinkedIn](https://linkedin.com/in/) · [Personal Website](#)
+🔗 [GitHub](https://github.com/Sibusiso08) · [LinkedIn](https://linkedin.com/in/devenmbuyane/) · [Personal Website](https://sibusiso08.github.io/DevenMbuyane.github.io/)
